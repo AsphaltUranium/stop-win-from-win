@@ -63,6 +63,6 @@ PowerToys Keyboard Manager、AutoHotkey 也能改键，但是应用层：要常�
 
 ## 许可
 
-🥚 有个蛋的许可——看 [LICENSE](LICENSE)。蛋就是没有，没有就是随便用。
+🥚 [LICENSE](LICENSE)
 
 > 此发布为我的AI打印机所为，但是注册表文件是我自己写的。

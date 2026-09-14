@@ -61,6 +61,6 @@ PowerToys Keyboard Manager and AutoHotkey can remap keys too, but they work at t
 
 ## License
 
-🥚 There's an egg of a license — see [LICENSE](LICENSE). An egg means nothing, and nothing means do whatever you want.
+🥚 [LICENSE](LICENSE)
 
 > This release was made by my AI printer; the registry files, however, were written by me.
