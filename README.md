@@ -1,7 +1,7 @@
 # 防win杜win
 
 > 防微杜渐（fáng wēi dù jiàn）——把坏事扼杀在萌芽时。
-> 防win杜win：把「微」「渐」换成 win，意思一点没变——
+> 防win杜win：
 > 把 Win 键误触这档子破事，扼杀在摇篮里。
 >
 > *STOP win from WIN!*
@@ -78,7 +78,7 @@ PowerToys Keyboard Manager、AutoHotkey 也能改键，但是应用层：要常�
 ## STOP win from WIN!
 
 > 防微杜渐 (fáng wēi dù jiàn) — a classical Chinese idiom: "nip problems in the bud".
-> 防win杜win swaps 微 (wēi) and 渐 (jiàn) for "win" — the meaning survives:
+> 防win杜win:
 > nip Win-key mishaps in the bud, before they cost you the game.
 
 ---
