@@ -1,4 +1,4 @@
-# 防win杜win
+# 防win杜贱
 
 > 防微杜渐（fáng wēi dù jiàn）——把坏事扼杀在萌芽时。
 > 防win杜贱：
@@ -41,7 +41,8 @@ Win 键就大大咧咧躺在 Ctrl 和 Alt 中间，随时准备背刺你。
 
 1. 下载 `键盘布局恢复.reg`，双击导入
 2. 重启
-3. 或者：regedit 打开 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout`，删掉 `Scancode Map` 这个值，重启
+或者：
+3. regedit 打开 `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout`，删掉 `Scancode Map` 这个值，重启
 
 ## 为什么是注册表方案
 
@@ -54,8 +55,7 @@ Win 键就大大咧咧躺在 Ctrl 和 Alt 中间，随时准备背刺你。
 
 ## 注意事项
 
-- **AltGr 警告**：德语、法语、西班牙语等国际布局用右 Alt 打 `@` `\` `€`——需要 AltGr 的话别导入，或只保留菜单键映射
-- 对 RDP 远程桌面会话不生效（映射在本地键盘层完成）
+- **AltGr 警告**：德语、法语、西班牙语等国际布局用右 Alt 打 `@` `\` `€`——需要 AltGr 的话别导入
 - Fn 键是硬件层的，任何软件都动不了它
 - 紧凑键盘（65%/75%）没有菜单键，只剩右 Alt 一个 Win 位
 
@@ -114,7 +114,8 @@ The Win key sits right between Ctrl and Alt, waiting to backstab you.
 
 1. Download `键盘布局恢复.reg`, double-click to import
 2. Restart
-3. Or: regedit → `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout` → delete the `Scancode Map` value → restart
+Or: 
+3. regedit → `HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Keyboard Layout` → delete the `Scancode Map` value → restart
 
 ## Why registry
 
@@ -127,8 +128,7 @@ The Win key sits right between Ctrl and Alt, waiting to backstab you.
 
 ## Caveats
 
-- **AltGr warning**: German, French, Spanish and other international layouts use Right Alt (AltGr) to type `@` `\` `€` — if you need AltGr, don't import this, or keep only the Menu key mapping
-- Does not apply to RDP sessions (mapping happens at the local keyboard layer)
+- **AltGr warning**: German, French, Spanish and other international layouts use Right Alt (AltGr) to type `@` `\` `€` — if you need AltGr, don't import this
 - Fn is hardware-level; no software can remap it
 - Compact keyboards (65%/75%) have no Menu key — but you still get one Win key from Right Alt
 
